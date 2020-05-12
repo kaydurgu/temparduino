@@ -18,7 +18,8 @@
 Label |	Part Type |	Properties
 ---|---|---
 DHT1	|	DHT11 Humitidy and Temperature Sensor |	
-LCD1 |	 |	
-LED1	|	 |
-LED2 |	 |
-Part1 |	 |
+LCD1 |	LCD screen |	type Character; pins 16
+LED1	|	Red (633nm) LED |  color Red (633nm); package 1206 [SMD]
+LED2 |	Yellow (585nm) LED |  color Yellow (585nm); package 1206 [SMD]
+LED3 |  Green (555nm) LED |  color Green (555nm); package 1206 [SMD]
+Part1 |	Arduino Uno (Rev3) - ICSP	| type Arduino UNO (Rev3) - ICSP
